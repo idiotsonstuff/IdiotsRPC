@@ -1,5 +1,6 @@
 import datetime
 import json
+import os
 import re
 import ssl
 import time
@@ -94,7 +95,8 @@ while True:
     try:
         RPC = Presence(CLIENT_ID)
         RPC.connect()
-        print("Connected to Discord! IdiotsRPC v3.0.1 is live. Minimize this window.")
+        os.system("Title IdiotsRPC")
+        print("Connected to Discord! IdiotsRPC v3.1.0 is live. Minimize this window.")
         break
     except Exception:
         print("Waiting for Discord to open... retrying in 5 seconds.")
