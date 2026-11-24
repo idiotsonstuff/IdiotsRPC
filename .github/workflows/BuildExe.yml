@@ -24,10 +24,10 @@ jobs:
           pip install pypresence pyinstaller
 
       - name: Build EXE
-        run: pyinstaller --onefile --name "IdiotsRPC" IdiotsRPC_v3.0.0.py
+        run: pyinstaller --onefile --noconsole --name "IdiotsRPC" IdiotsRPC_v3.0.0.py
 
       - name: Upload EXE Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: IdiotsRPC-Windows
+          name: IdiotsRPC-v3.1.0-Windows
           path: dist/IdiotsRPC.exe
