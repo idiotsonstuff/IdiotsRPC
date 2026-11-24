@@ -30,4 +30,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: IdiotsRPC-v3.1.0-Windows
-          path: dist/IdiotsRPC.exe
+          path: dist/IdiotsRPC/
