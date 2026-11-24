@@ -26,7 +26,7 @@
       "activity_type": 3,
       "details": "if you clicked our profile, hi",
       "state": "newest video dropped {upload_age}",
-      "large_image": "channel",
+      "large_image": "channel_logo",
       "large_text": "IdiotsOnStuff",
       "small_image": "yapper",
       "small_text": "check out a video if you're bored"
@@ -64,7 +64,7 @@
     },
     {
       "activity_type": 3,
-      "details": "gaming, challenges & Funnies",
+      "details": "gaming, challenges & funnies",
       "state": "zero budget, zero filter",
       "large_image": "channel_logo",
       "large_text": "IdiotsOnStuff",
