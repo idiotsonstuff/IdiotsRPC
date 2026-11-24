@@ -11,7 +11,6 @@ from pypresence.types import ActivityType
 CLIENT_ID = "1574257573828362272"
 YOUTUBE_CHANNEL_ID = "UCDMzXYZ-T767m1ozBSkyFZA"
 
-# Replace YOUR_GITHUB_USERNAME with your actual GitHub username
 CONFIG_URL = "https://raw.githubusercontent.com" + "/idiotsonstuff/IdiotsRPC/refs/heads/main/slides.json"
 
 FALLBACK_CONFIG = {
