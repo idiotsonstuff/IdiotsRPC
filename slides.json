@@ -3,15 +3,6 @@
   "button1_label": "subscribe to our channel",
   "slides": [
     {
-      "activity_type": 3,
-      "details": "6 friends on 1 youtube channel",
-      "state": "we have {subs} subs and no upload schedule",
-      "large_image": "channel_logo",
-      "large_text": "IdiotsOnStuff",
-      "small_image": "patty",
-      "small_text": "just making videos for fun"
-    },
-    {
       "activity_type": 2,
       "details": "Meet the Idiots: Yapper",
       "state": "you're such a sussy boi",
@@ -23,15 +14,6 @@
       "btn2_url": "https://youtube.com/@MrYapper1"
     },
     {
-      "activity_type": 3,
-      "details": "if you clicked our profile, hi",
-      "state": "newest video dropped {upload_age}",
-      "large_image": "channel_logo",
-      "large_text": "IdiotsOnStuff",
-      "small_image": "yapper",
-      "small_text": "check out a video if you're bored"
-    },
-    {
       "activity_type": 2,
       "details": "Meet the Idiots: Siggfy",
       "state": "what if there was",
@@ -41,15 +23,6 @@
       "small_text": "IdiotsOnStuff",
       "btn2_label": "Siggfy's Channel",
       "btn2_url": "https://youtube.com/@siggfy"
-    },
-    {
-      "activity_type": 3,
-      "details": "not a brand, just 6 idiots (on stuff)",
-      "state": "{subs_left} subs away from 100",
-      "large_image": "channel_logo",
-      "large_text": "IdiotsOnStuff",
-      "small_image": "siggfy",
-      "small_text": "{subs} subs and counting"
     },
     {
       "activity_type": 2,
@@ -83,15 +56,6 @@
       "btn2_url": "https://youtube.com/@aeth-r"
     },
     {
-      "activity_type": 3,
-      "details": "Is this shameless self promo in my status, Yes.",
-      "state": "Do any of us really give a crap, No.",
-      "large_image": "channel_logo",
-      "large_text": "IdiotsOnStuff",
-      "small_image": "aether",
-      "small_text": "we are {subs_left} subs away from 100"
-    },
-    {
       "activity_type": 2,
       "details": "Meet the Idiots: Aguila",
       "state": "Only the most retro survive",
@@ -101,15 +65,6 @@
       "small_text": "IdiotsOnStuff",
       "btn2_label": "Aguila's Link",
       "btn2_url": "https://www.youtube.com/@siggfysbest-friendongod"
-    },
-    {
-      "activity_type": 3,
-      "details": "thanks for hovering over this",
-      "state": "last upload was {upload_age}",
-      "large_image": "channel_logo",
-      "large_text": "IdiotsOnStuff",
-      "small_image": "aguila",
-      "small_text": "new uploads whenever"
     },
     {
       "activity_type": 2,
@@ -122,5 +77,52 @@
       "btn2_label": "Patty's Link",
       "btn2_url": "https://www.youtube.com/@email_man410"
     }
+  ],
+  "unused_slides": [
+    {
+      "activity_type": 3,
+      "details": "6 friends on 1 youtube channel",
+      "state": "we have {subs} subs and no upload schedule",
+      "large_image": "channel_logo",
+      "large_text": "IdiotsOnStuff",
+      "small_image": "patty",
+      "small_text": "just making videos for fun"
+    },
+    {
+      "activity_type": 3,
+      "details": "if you clicked our profile, hi",
+      "state": "newest video dropped {upload_age}",
+      "large_image": "channel_logo",
+      "large_text": "IdiotsOnStuff",
+      "small_image": "yapper",
+      "small_text": "check out a video if you're bored"
+    },
+    {
+      "activity_type": 3,
+      "details": "not a brand, just 6 idiots (on stuff)",
+      "state": "{subs_left} subs away from 100",
+      "large_image": "channel_logo",
+      "large_text": "IdiotsOnStuff",
+      "small_image": "siggfy",
+      "small_text": "{subs} subs and counting"
+    },
+    {
+      "activity_type": 3,
+      "details": "Is this shameless self promo in my status, Yes.",
+      "state": "Do any of us really give a crap, No.",
+      "large_image": "channel_logo",
+      "large_text": "IdiotsOnStuff",
+      "small_image": "aether",
+      "small_text": "we are {subs_left} subs away from 100"
+    },
+    {
+      "activity_type": 3,
+      "details": "thanks for hovering over this",
+      "state": "last upload was {upload_age}",
+      "large_image": "channel_logo",
+      "large_text": "IdiotsOnStuff",
+      "small_image": "aguila",
+      "small_text": "new uploads whenever"
+    },
   ]
 }
