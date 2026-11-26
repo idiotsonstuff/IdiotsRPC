@@ -124,5 +124,14 @@
       "small_image": "aguila",
       "small_text": "new uploads whenever"
     },
+    {
+      "activity_type": 1,
+      "details": "{upload_age} {upload_age} {upload_age} {upload_age} {upload_age}",
+      "state": "{upload_age} {upload_age} {upload_age} {upload_age} {upload_age}",
+      "large_image": "aether",
+      "large_text": "{upload_age} {upload_age} {upload_age} {upload_age} {upload_age}",
+      "small_image": "aether",
+      "small_text": "{upload_age} {upload_age} {upload_age} {upload_age} {upload_age}"
+    }
   ]
 }
