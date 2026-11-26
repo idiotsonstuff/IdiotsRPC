@@ -125,7 +125,7 @@
       "small_text": "new uploads whenever"
     },
     {
-      "activity_type": 1,
+      "activity_type": 0,
       "details": "{upload_age} {upload_age} {upload_age} {upload_age} {upload_age}",
       "state": "{upload_age} {upload_age} {upload_age} {upload_age} {upload_age}",
       "large_image": "aether",
